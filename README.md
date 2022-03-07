@@ -16,9 +16,9 @@ Proiectul consta intr-o aplicatie web/mobile pentru un magazin online de haine. 
 10.	Ca admin pot avea control asupra userilor(operatii de tip CRUD).
 
 •	Features:
-	searchbar-uri pentr haine in functie de anumite field-uri(designer, tip produs).
-	sortari in functie de anumite field-uri(pret).
-	userilor le pot fi recomandate anumite haine in functie de wishlist, cumparaturi anterioare.
+- searchbar-uri pentr haine in functie de anumite field-uri(designer, tip produs).
+- sortari in functie de anumite field-uri(pret).
+- userilor le pot fi recomandate anumite haine in functie de wishlist, cumparaturi anterioare.
 
 
 
