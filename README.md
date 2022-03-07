@@ -1,9 +1,9 @@
 Proiect MDS
 
-•	Descriere aplicatie:
+  Descriere aplicatie:
 Proiectul consta intr-o aplicatie web/mobile pentru un magazin online de haine. Un user obisnuit are posibilitatea de a achizitiona online haine  produse de un anumit designer.
 
-•	User stories:
+  User stories:
 1.	Ca user pot cauta/ imi pot fi recomadate anumite haine produse de designeri favoriti.
 2.	Ca user pot adauga diferite produse la wishlist.
 3.	Ca user pot vedea descrierea intregului magazin/fiecarui produs in parte.
@@ -15,7 +15,7 @@ Proiectul consta intr-o aplicatie web/mobile pentru un magazin online de haine. 
 9.	Ca designer pot updata stocul de produse.
 10.	Ca admin pot avea control asupra userilor(operatii de tip CRUD).
 
-•	Features:
+  Features:
 - searchbar-uri pentr haine in functie de anumite field-uri(designer, tip produs).
 - sortari in functie de anumite field-uri(pret).
 - userilor le pot fi recomandate anumite haine in functie de wishlist, cumparaturi anterioare.
